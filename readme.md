@@ -58,15 +58,15 @@ Este proyecto fue desarrollado como parte de mi proceso de formación en Anális
 
 ### Inicio de la galería
 
-![Inicio](vistas/img_readme/imagen1.png)
+![Inicio](img_readme/imagen1.png)
 
 ### Catálogo de obras
 
-![Catálogo](vistas/img_readme/imagen2.png)
+![Catálogo](img_readme/imagen2.png)
 
 ### Dashboard
 
-![Dashboard](vistas/img_readme/imagen3.png)
+![Dashboard](img_readme/imagen3.png)
 
 ---
 
