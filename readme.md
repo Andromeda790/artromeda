@@ -56,7 +56,7 @@ Este proyecto fue desarrollado como parte de mi proceso de formación en Anális
 
 ## Capturas de pantalla
 
-### Inicio de la galería
+### Inicio de Sesión
 
 ![Inicio](img_readme/imagen2.png)
 
